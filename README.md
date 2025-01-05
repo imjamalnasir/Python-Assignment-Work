@@ -1,1 +1,1 @@
-# Python-Assignment-Work
+SMIT AI DS Projects and Assignments
